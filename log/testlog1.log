@@ -1,0 +1,97 @@
+2021-09-19 12:26:47,697 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 12:26:47,708 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2021-09-19 12:26:48,017 [main] INFO io.github.bonigarcia.wdm.Downloader - Downloading https://chromedriver.storage.googleapis.com/93.0.4577.63/chromedriver_win32.zip
+2021-09-19 12:26:48,247 [main] INFO io.github.bonigarcia.wdm.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2021-09-19 12:26:48,346 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 19:35:24,841 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 19:35:24,864 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 19:36:36,750 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 19:36:36,772 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 19:41:31,278 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 19:41:31,301 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 19:46:33,054 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 19:46:33,081 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 19:47:59,535 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 19:47:59,560 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 19:49:14,165 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 19:49:14,191 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 21:12:09,331 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 21:12:09,347 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 21:23:38,043 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 21:23:38,054 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 21:24:50,303 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 21:24:50,318 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 21:32:05,756 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 21:32:05,772 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:05:47,305 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:05:47,320 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:16:53,501 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:16:53,517 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:20:44,609 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:20:44,624 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:31:02,895 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:31:02,910 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:34:52,516 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:34:52,530 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:35:36,340 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:35:36,359 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:36:20,934 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:36:20,948 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:45:34,265 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:45:34,278 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:46:11,905 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:46:11,920 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 22:47:44,288 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 22:47:44,303 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:34:27,846 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:34:27,859 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:34:54,668 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:34:54,689 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:35:21,276 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:35:21,290 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:35:38,674 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:35:38,682 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:36:01,447 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:36:01,460 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:36:09,332 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:36:09,339 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:40:12,739 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:40:12,757 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:40:20,999 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:40:21,007 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:41:06,202 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:41:06,208 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:41:14,176 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:41:14,183 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:42:34,318 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:42:34,328 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:42:42,327 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:42:42,327 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:44:09,647 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:44:09,668 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:45:51,669 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:45:51,687 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-19 23:47:59,157 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-19 23:47:59,169 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:20:05,405 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:20:05,420 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:23:06,849 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:23:06,858 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:26:04,279 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:26:04,299 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:27:17,439 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:27:17,453 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:27:25,544 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:27:25,553 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:34:45,212 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:34:45,229 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:34:53,929 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:34:53,938 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:35:39,007 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:35:39,029 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:35:47,169 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:35:47,177 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:36:41,697 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:36:41,712 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-20 00:36:49,389 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (since Google Chrome 93 is installed in your machine)
+2021-09-20 00:36:49,389 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\alex\.m2\repository\webdriver\chromedriver\win32\93.0.4577.63\chromedriver.exe
