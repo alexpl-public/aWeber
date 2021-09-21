@@ -1,7 +1,6 @@
 package pages;
 
-import okhttp3.WebSocketListener;
-import org.openqa.selenium.WebDriver;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -9,12 +8,13 @@ import utilities_package.Driver;
 
 public class WordPressPage {
 
-    WebDriver driver;
 
     public WordPressPage() {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
+
+    //Create locators for our elements
     @FindBy(id="usernameOrEmail")
     public WebElement userName;
 
@@ -33,8 +33,6 @@ public class WordPressPage {
 
     @FindBy(id = "last_name")
     public WebElement LastName;
-
-
 
     @FindBy(id = "display_name")
     public WebElement publicDisplayName;
@@ -66,6 +64,11 @@ public class WordPressPage {
 
     @FindBy(xpath = "//*[@class='profile-link__url']")
     public WebElement addedLink;
+
+    @FindBy(id = "inspector-toggle-control-0")
+    public WebElement himeGravProfileBtn;
+
+
 
 
 
